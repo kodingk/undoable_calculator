@@ -1,4 +1,4 @@
-from .undoable_calculator import UndoableCalculator
+from undoable_calculator import UndoableCalculator
 
 
 def test_addition():
